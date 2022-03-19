@@ -14,7 +14,7 @@
 ### Acerca del Repositorio
 -------------
 
-Derivación numérica es un repositorio donde podrás encontrar archivos para aproximar el valor de una derivada utilizando una serie de puntos. Se debe tomar en cuenta que estos métodos tienen errores de truncamiento.
+Derivación numérica es un repositorio donde podrás encontrar archivos para aproximar el valor de una derivada utilizando una serie de puntos. Se debe tomar en cuenta que estos métodos tienen errores de truncamiento, es decir, el valor obtenido no será exacto.
 
 El repositorio cuenta con  las siguientes funciones para realizar el calculo de la derivada:
 
