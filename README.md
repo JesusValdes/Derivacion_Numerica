@@ -61,11 +61,11 @@ En cuanto a los archivos, puede bajar el repositorio el cual cuenta con toda la 
 	
 	```
 
-4. Picarle al botón correr
+4. Seleccionar el botón Run
 
 Al terminar estos pasos, tendrá todos los cálculos correspondientes y los resultados se verán así.
 
-![Segunda derivada uno centro](SDUC.png).
+![Segunda derivada uno centro](SDUC.png)
 
 
 
