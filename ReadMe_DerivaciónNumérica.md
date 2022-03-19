@@ -7,7 +7,7 @@
 ------------------
 * [Acerca del sistema](#Acerca_del_Repositorio)
     * [Funcionamiento](#Funcionamiento)
-* [Instalación](#instalacion)
+* [Instalación](#Instalacion)
 * [Demostación](#Demostración)
 * [Proyecto a Futuro](#Futuro)
 * [Contacto](#Contacto)
