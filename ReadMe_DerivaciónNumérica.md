@@ -5,7 +5,7 @@
 
 ## Contenidos
 ------------------
-* [Acerca del sistema](#Acerca_del_Repositorio)
+* [Acerca del Repositorio](#Acerca_del_Repositorio)
     * [Funcionamiento](#Funcionamiento)
 * [Instalación](#Instalación)
 * [Demostración](#Demostración)
