@@ -18,8 +18,8 @@ Derivación numérica es un repositorio donde podrás encontrar archivos para ap
 
 El repositorio cuenta con  las siguientes funciones para realizar el calculo de la derivada:
 
-- [First Derivative O2](FirtstDerivative (1).mlx)
-- [First Derivative O4](FirstO4.mlx) 
+- [First Derivative O2](FirtstDerivative(1).mlx)
+- [First Derivative O4](FirstDerO4.mlx) 
 - [Second Derivative O2](SecDerivO2.mlx)
 - [Second Derivative uno atrás](SegundaDerivadaUnoAtras.mlx)
 - [Segunda Derivada uno centro](SegundaDerivadaUnoCentro.mlx)
@@ -31,7 +31,7 @@ El repositorio cuenta con  las siguientes funciones para realizar el calculo de 
 ### Funcionamiento 
 ------
 
-En el repositorio, además de encontrar los archivos necesarios para realizar los cálculos, se les proporciona un [documento](Proyecto_1.pdf) pdf en donde podrán encontrar detalladamente toda la información relevante de cada método.
+En el repositorio, además de encontrar los archivos necesarios para realizar los cálculos, se les proporciona un [documento](Proyecto 1.pdf) pdf en donde podrán encontrar detalladamente toda la información relevante de cada método.
 Ya que tengan abierto el archivo en MATLAB, lo único que tienen que hacer es cambiar los parámetros a lo que quieran y correr el programa.
 
 ####  Instalación       
