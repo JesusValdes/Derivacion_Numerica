@@ -1,4 +1,4 @@
-# Derivación Numérica
+# *Derivación Numérica*
  
 
 ----------------
@@ -31,13 +31,13 @@ El repositorio cuenta con  las siguientes funciones para realizar el calculo de 
 ### Funcionamiento 
 ------
 
-En el repositorio, además de encontrar los archivos necesarios para realizar los cálculos, se les proporciona un [documento](ProyectoDer.pdf) pdf en donde podrán encontrar detalladamente toda la información relevante de cada método.
+En el repositorio, además de encontrar los archivos necesarios para realizar los cálculos, se les proporciona un [**documento**](ProyectoDer.pdf) pdf en donde podrán encontrar detalladamente toda la información relevante de cada método.
 Ya que tengan abierto el archivo en MATLAB, lo único que tienen que hacer es cambiar los parámetros a lo que quieran y correr el programa.
 
 ### Instalación       
 -------
 
-Para poder correr los archivos será necesario contar con cualquier versión de MATLAB, en caso de no contar con alguna, puede ingresar a la página oficial de MATLAB y bajar una prueba gratis de 30 días. 
+Para poder correr los archivos será necesario contar con cualquier versión de MATLAB, en caso de no contar con alguna, puede ingresar a la página oficial de [**MATLAB**](https://www.mathworks.com/products/matlab.html) y bajar una prueba gratis de 30 días. 
 En cuanto a los archivos, puede bajar el repositorio el cual cuenta con toda la información necesaria.
 
 
