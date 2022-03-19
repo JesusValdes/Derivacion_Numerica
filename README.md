@@ -18,7 +18,7 @@ Derivación numérica es un repositorio donde podrás encontrar archivos para ap
 
 El repositorio cuenta con  las siguientes funciones para realizar el calculo de la derivada:
 
-- [First Derivative O2](FirtstDerO2.mlx)
+- [First Derivative O2](FirstDerO2.mlx)
 - [First Derivative O4](FirstDerO4.mlx) 
 - [Second Derivative O2](SecDerivO2.mlx)
 - [Second Derivative uno atrás](SegundaDerivadaUnoAtras.mlx)
